@@ -8,7 +8,7 @@ muestre una cara triste, con lo que el programa quedaría como se muestra a
 continuación:
 ![image](https://user-images.githubusercontent.com/114906861/204747120-c11b1646-9d0f-4f98-b6a7-16615ed5cea5.PNG)
 - [MakeCode](https://makecode.microbit.org/#editor)
-- [Archivo Microbit](micronbit/microbit-Microbit.hex)
+- [Archivo Microbit](https://github.com/LarryWestbrook/Microbit/blob/e61ff498a1b0bb6d36af6ad6dd13e81f7e35d344/microbit-Microbit.hex)
 
 
 
