@@ -21,6 +21,7 @@ programamos el botón A:
 
 ![image](https://user-images.githubusercontent.com/114906861/204747857-230bec82-29a7-455d-a0db-12ac56e0d29c.PNG)
 - [MakeCode](https://makecode.microbit.org/#editor)
+- [Archivo Microbit](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-Microbit%20(1).hex)
 
 
 ## `Ejercicio 3`
