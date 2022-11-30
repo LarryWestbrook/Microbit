@@ -8,6 +8,7 @@ muestre una cara triste, con lo que el programa quedaría como se muestra a
 continuación:
 ![image](https://user-images.githubusercontent.com/114906861/204747120-c11b1646-9d0f-4f98-b6a7-16615ed5cea5.PNG)
 - [MakeCode](https://makecode.microbit.org/#editor)
+- [Archivo.txt](archivo.txt)
 
 
 ## `Ejercicio 2`
