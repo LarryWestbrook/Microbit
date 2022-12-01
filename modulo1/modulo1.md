@@ -33,4 +33,4 @@ programamos si la placa detecta que la hemos agitado:
 
 ![image](https://user-images.githubusercontent.com/114906861/204747955-ef016cd7-2427-49f2-983b-5710cf6184d9.PNG)
 - [MakeCode](https://makecode.microbit.org/#editor)
-- [Archivo Microbit](
+- [Archivo Microbit](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-Modulo3.hex)
