@@ -78,6 +78,6 @@ reproducir tono Do alto medio por ½ pulso
 reproducir tono La# medio por ½ pulso 
 reproducir tono La medio por 1 pulso
 
-![image](file:///home/asir/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202022-12-05%2009-25-09.png)
+![image](https://user-images.githubusercontent.com/114906861/205589940-2a2c6d44-4e01-4320-b590-0518caa13cc8.png)
 - [Make Code](https://makecode.microbit.org/#editor)
 - [Archivo](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-modulos%20(3).hex)
