@@ -36,10 +36,12 @@ Como último ejercicio, se nos pide que toquemos en la placa la primera parte de
 una melodía al presionar el botón A.
 Para completar la actividad, primero trasladaremos la primera parte del
 pentagrama a notas:
+
 LA MI FA SOL FA MI RE RE FA LA SOL FA MI MI FA SOL LA RE RE
 A continuación, programaremos en la placa para que al presionar el botón suene
 la melodía programando tono a tono teniendo en cuenta de su se trata de un tono
 de un pulso, de medio pulso o de dos pulsos:
+
 Al presionarse el botón A:
 reproducir tono La medio por 1 pulso
 reproducir tono Mi medio por ½ pulso
@@ -64,12 +66,14 @@ Para modificar la velocidad de la melodía haremos que al agitar la placa el tie
 cambie a 100 bpm y que al pulsar el botón A+B el tiempo cambie a 50 bpm.
 Si “agitado”
 cambiar tempo en (bpm) 100
+
 Al presionarse el botón “A+B”
 cambiar tempo en (bpm) 50
 Para finalizar, programamos la segunda parte de la melodía al pulsar el botón B.
 ¡Ojo!, esta parte tiene algunas notas altas y otras con bemoles, que es la nota
 menos medio tono y es lo mismo que la nota anterior con un sostenido (excepto
 en los casos de Do a Si y de Mi a Fa) :
+
 Al presionarse el botón B:
 reproducir tono Sol medio por 1 pulso
 reproducir tono La# medio por ½ pulso
