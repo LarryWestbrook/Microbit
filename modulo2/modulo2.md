@@ -80,4 +80,4 @@ reproducir tono La medio por 1 pulso
 
 ![image](https://user-images.githubusercontent.com/114906861/205589940-2a2c6d44-4e01-4320-b590-0518caa13cc8.png)
 - [Make Code](https://makecode.microbit.org/#editor)
-- [Archivo](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-modulos%20(3).hex)
+- [Archivo Microbit](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-modulos%20(3).hex)
