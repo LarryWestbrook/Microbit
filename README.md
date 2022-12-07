@@ -20,6 +20,10 @@ Micro:bit es una placa programable, es decir, una placa con un procesador y otro
 
 - [Ejercicios Microbit](modulo3/modulo3.md)
 
+## `Modulo 4`
+
+- [Proyectos Make](modulo4/modulo4.md)
+
 ## `Referencias`
 
 - [Make Code](https://makecode.microbit.org/#)
