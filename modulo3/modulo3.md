@@ -11,4 +11,4 @@ A continuación, se detallan los pasos a seguir para resolver la actividad 1:
 4. Por último, no debemos olvidar mostrar la variable en la pantalla de la placa. Para hacerlo de manera continua, colocaremos el bloque “mostrar número” en el interior del bloque “para siempre”.
 
 ![image](https://user-images.githubusercontent.com/114906861/206123329-64542d08-3b8b-4dea-b8e4-2f0cc1a12309.PNG)
-
+- [Archivo Microbit] 
