@@ -8,5 +8,6 @@ Este micro:bit tiene un sensor de brújula llamado magnetómetro que mide campos
 Cuando usas la brújula micro:bit por primera vez tienes que calibrarla. Aparecerá un pequeño juego en la pantalla donde tienes que inclinar el micro:bit para encender cada LED, y con esto estará todo listo.
 El programa utiliza un bucle infinito (que no acaba nunca) para tomar lecturas de la brújula contínuamente, y las almacena en una variable llamada "bearing" (en inglés, "rumbo"). A continuación utiliza selección: una instrucción si… entonces se encarga de que se muestre N (de norte) en la pantalla LED si el ángulo es mayor que (>) 315 grados o menor que (<) 45. Esto significa que te mostrará dónde está el norte siempre que el micro:bit apunte aproximadamente en la dirección correcta.
 
-![image](file:///home/asir/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202022-12-07%2010-12-48.png)
+![image](https://user-images.githubusercontent.com/114906861/206139352-5a289b52-2ed0-4a18-8d73-7aba3a06c509.png)
+
 - [Archivo]
