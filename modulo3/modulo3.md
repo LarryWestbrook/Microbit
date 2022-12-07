@@ -10,4 +10,5 @@ A continuación, se detallan los pasos a seguir para resolver la actividad 1:
 3. A continuación, utilizaremos los bloques de entrada para programar el cambio de la variable al presionar los botones A y B. Realizaremos estos cambios utilizando los bloques “cambiar variable por”, sumando 1 al presionar botón B, y sumando -1 al presionar el botón A. 
 4. Por último, no debemos olvidar mostrar la variable en la pantalla de la placa. Para hacerlo de manera continua, colocaremos el bloque “mostrar número” en el interior del bloque “para siempre”.
 
-![image](Captura.PNG…])
+![image](https://user-images.githubusercontent.com/114906861/206123329-64542d08-3b8b-4dea-b8e4-2f0cc1a12309.PNG)
+
