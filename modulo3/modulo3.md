@@ -32,3 +32,7 @@ bloque “para siempre” con una condición: si el botón A está presionado,
 cambiamos la variable en -1. De igual modo, si el botón B está presionado,
 cambiamos la variable en 1 unidad. En caso contrario, no modificamos la
 variable.
+
+![image](https://user-images.githubusercontent.com/114906861/206127137-8470607b-74b5-43db-ab4b-460b32f1b613.png)
+- [Make Code]
+- [Archivo Microbit]
