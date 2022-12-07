@@ -81,4 +81,4 @@ El programa quedaría como se muestra a continuación:
 
 ![image](https://user-images.githubusercontent.com/114906861/206131767-daacb75e-a465-49ff-90af-2331504afe79.png)
 - [Make Code](https://makecode.microbit.org/#editor)
-- [Archivo Microbit]
+- [Archivo Microbit](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-proyecto33.hex)
