@@ -22,7 +22,7 @@ Micro:bit es una placa programable, es decir, una placa con un procesador y otro
 
 ## `Modulo 4`
 
-- [Proyectos Make](modulo4/modulo4.md)
+- [Proyectos Make Code](modulo4/modulo4.md)
 
 ## `Referencias`
 
