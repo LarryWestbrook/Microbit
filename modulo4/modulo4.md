@@ -9,5 +9,10 @@ Cuando usas la brújula micro:bit por primera vez tienes que calibrarla. Aparece
 El programa utiliza un bucle infinito (que no acaba nunca) para tomar lecturas de la brújula contínuamente, y las almacena en una variable llamada "bearing" (en inglés, "rumbo"). A continuación utiliza selección: una instrucción si… entonces se encarga de que se muestre N (de norte) en la pantalla LED si el ángulo es mayor que (>) 315 grados o menor que (<) 45. Esto significa que te mostrará dónde está el norte siempre que el micro:bit apunte aproximadamente en la dirección correcta.
 
 ![image](https://user-images.githubusercontent.com/114906861/206139352-5a289b52-2ed0-4a18-8d73-7aba3a06c509.png)
+- [Archivo](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-compass.hex)
 
-- [Archivo]
+- Mejórado
+
+Haz la brújula más precisa reduciendo el rango del ángulo: haz que el número 45 sea más pequeño y el 315 más grande.
+Agrega más puntos cardinales para mostrar cuando el micro:bit apunte hacia el este, el oeste o el sur.
+Agrega sonido para que haga ruido al apuntar hacia el norte, de modo que alguien con discapacidad visual pueda también usar la brújula.
