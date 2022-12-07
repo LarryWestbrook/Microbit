@@ -16,6 +16,9 @@ Micro:bit es una placa programable, es decir, una placa con un procesador y otro
 
 - [Ejercicios Micribit](modulo2/modulo2.md)
 
+## `Modulo 3` 
+
+- [Ejercicios Microbit](modulo3/modulo3.md)
 
 ## `Referencias`
 
