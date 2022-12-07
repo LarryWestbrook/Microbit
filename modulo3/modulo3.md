@@ -51,24 +51,32 @@ ascendientes o descendientes, en función de si se presionan los
 botones.
 c) Mostrar la imagen en la pantalla de la placa.
 Continuamos con el reconocimiento de patrones:
+
 Al comenzar el programa, debemos crear la imagen y dar el valor inicial a
 una variable que indicará la posición de la imagen.
+
 A la hora de pensar en la creación de esta variable la cual vamos a
 incrementar o disminuir al presionar los botones observamos que
 utilizaremos los mismos bloques que usamos en la actividad anterior, por
 lo que ya tenemos en mente el algoritmo a usar:
+
 ● Creamos la imagen y la variable (en nuestro caso, la llamaremos offset)
+
 ● Si se presiona el botón A, mover la imagen a la izquierda (es decir,
 modificar el valor de offset, disminuyéndolo para que la imagen se mueva
 a la izquierda).
+
 ● Si se presiona el botón B, mover la imagen a la derecha (aumentando el
 valor de offset).
+
 ● Por último, representar la imagen en la posición indicada por el offset.
 En cuanto a la abstracción, analizando los demás retos podemos utilizar algunos
 de los conocimientos adquiridos durante los módulos 1 y 2 del curso:
-●Bloques de variable para calcular el movimiento de la imagen y para
+
+● Bloques de variable para calcular el movimiento de la imagen y para
 almacenar la imagen grande.
-●Bloques de imágenes para crear una imagen grande y para representarla,
+
+● Bloques de imágenes para crear una imagen grande y para representarla,
 controlando la posición (intervalo).
 Con lo que debemos descartar el uso del resto de bloques aprendidos hasta
 ahora, como los bloques de música o bucles.
