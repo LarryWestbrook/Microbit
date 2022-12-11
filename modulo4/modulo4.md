@@ -16,3 +16,6 @@ El programa utiliza un bucle infinito (que no acaba nunca) para tomar lecturas d
 Haz la brújula más precisa reduciendo el rango del ángulo: haz que el número 45 sea más pequeño y el 315 más grande.
 Agrega más puntos cardinales para mostrar cuando el micro:bit apunte hacia el este, el oeste o el sur.
 Agrega sonido para que haga ruido al apuntar hacia el norte, de modo que alguien con discapacidad visual pueda también usar la brújula.
+
+![image]
+- [Archivo]
