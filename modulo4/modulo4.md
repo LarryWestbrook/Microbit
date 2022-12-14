@@ -17,5 +17,5 @@ Haz la brújula más precisa reduciendo el rango del ángulo: haz que el número
 Agrega más puntos cardinales para mostrar cuando el micro:bit apunte hacia el este, el oeste o el sur.
 Agrega sonido para que haga ruido al apuntar hacia el norte, de modo que alguien con discapacidad visual pueda también usar la brújula.
 
-![image]
+![image](https://user-images.githubusercontent.com/114906861/207558659-e1d7ffe8-e15a-446a-aca5-0ac8aacd4c32.png)
 - [Archivo]
