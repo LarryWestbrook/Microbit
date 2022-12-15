@@ -13,7 +13,7 @@ El programa utiliza un bucle infinito (que no acaba nunca) para tomar lecturas d
 ![image](https://user-images.githubusercontent.com/114906861/206139352-5a289b52-2ed0-4a18-8d73-7aba3a06c509.png)
 - [Archivo](https://github.com/LarryWestbrook/Microbit/blob/main/microbit-compass.hex)
 
-- Mejórado
+## `Mejórado`
 
 Haz la brújula más precisa reduciendo el rango del ángulo: haz que el número 45 sea más pequeño y el 315 más grande.
 Agrega más puntos cardinales para mostrar cuando el micro:bit apunte hacia el este, el oeste o el sur.
