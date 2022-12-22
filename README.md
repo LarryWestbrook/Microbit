@@ -34,7 +34,7 @@ Micro:bit es una placa programable, es decir, una placa con un procesador y otro
 
 ## `Enlace YouTube`
 
-- [Proyecto]
+- [Proyecto](https://youtu.be/zRaLwDhDUmE)
 
 ## `Licencias`
 
